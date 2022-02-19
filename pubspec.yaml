@@ -7,9 +7,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  video_player_web_hls: ^0.1.1
-  video_player: ^0.10.10
-  flutter_web3: ^2.1.9
+  better_player: ^0.0.81
 dev_dependencies:
   flutter_test:
     sdk: flutter
